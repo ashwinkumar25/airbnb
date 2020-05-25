@@ -1,8 +1,3 @@
-#Team Members:
-#Alexandrina Almazan, Ashwin Kumar Mathi, Priyadharshini Govind, Sahana Shrivats, Vigneshwaran Velumani, Yokesh VS
-
-#---------------------------------------IDS570 - Statistics for Management---------------------------------
-
 #----------------------------------------------Airbnb - Melbourne------------------------------------------
 
 # Library Files
